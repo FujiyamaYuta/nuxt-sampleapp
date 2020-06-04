@@ -147,7 +147,17 @@ export default {
       openCommentFlag: false,
       comment: '',
       msg: 'This is a button.',
-      commentArray: []
+      commentArray: [
+        // {
+        //   name: '藤原 祐太',
+        //   uid: '12345',
+        //   description:
+        //     'MARRON側の処理状況は順調です。なお、hogehoge3:30に、ヘラクレスへIFしているCXSENS送信処理は、通常よりおよそ10分程度遅延する見込みです。（3:40頃に配信予定）',
+        //   time: '23:12:24',
+        //   icon:
+        //     'https://pbs.twimg.com/profile_images/704153164438642692/bYo0YeEr_400x400.jpg'
+        // }
+      ]
     }
   },
   methods: {
